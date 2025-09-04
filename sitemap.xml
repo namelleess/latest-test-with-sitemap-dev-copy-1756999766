@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+      <url>
+          <loc>https://nine.org</loc>
+
+            <xhtml:link rel="alternate" hreflang="x-default" href="https://nine.org" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://nine.org" />
+
+
+            <xhtml:link rel="alternate" hreflang="fr" href="https://nine.org/fr" />
+
+        <lastmod>2025-09-04T15:29:28.970Z</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>1.0</priority>
+      </url>
+      <url>
+          <loc>https://nine.org/fr</loc>
+
+            <xhtml:link rel="alternate" hreflang="x-default" href="https://nine.org" />
+            <xhtml:link rel="alternate" hreflang="en" href="https://nine.org" />
+
+
+            <xhtml:link rel="alternate" hreflang="fr" href="https://nine.org/fr" />
+
+        <lastmod>2025-09-04T15:29:28.970Z</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>1.0</priority>
+      </url>
+</urlset>
